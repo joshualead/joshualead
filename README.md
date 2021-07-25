@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshualead
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Java, Flutter, FullstackJS
-- 📫 How to reach me joshua.22cs@licet.ac.in
+- 👀 I’m interested in Software and web development
+- 🌱 I’m currently in my final year B.E
+- 📫 Reach me at joshua.22cs@licet.ac.in
 
 <!---
 joshualead/joshualead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
