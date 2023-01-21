@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshualead
-- 👀 I’m interested in Software and web development
-- 🌱 I’m currently in my final year B.E
-- 📫 Reach me at joshua.22cs@licet.ac.in
+- 👀 Interested in Tech.
+- 🌱 currently a software developer
+- 📫 Reach me at joshuajerome.inbox@gmail.com
 
 <!---
 joshualead/joshualead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
