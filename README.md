@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joshualead
 - 👀 Interested in Tech.
-- 🌱 currently a software developer
-- 📫 Reach me at joshuajerome.inbox@gmail.com
+- 🌱 Fullstack developer
 
 <!---
 joshualead/joshualead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
